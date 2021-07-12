@@ -42,6 +42,13 @@ function getImage(n) {
     return path;
 }
 
+function blinktext() {
+    var f = document.getElementById('instruction');
+    setInterval(function() {
+      f.style.visibility = (f.style.visibility == 'hidden' ? '' : 'hidden');
+    }, 400);
+  }
+
 function startGame() {
 
     let card1 = getRandomArbitrary(1,10);

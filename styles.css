@@ -39,3 +39,9 @@ img {
     height: 40;
     width: 30;
 }
+
+#instruction {
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+}
