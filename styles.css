@@ -1,5 +1,5 @@
 body {
-    background-image: url("bg.jpeg");
+    background-image: url("images/bg.jpeg");
     text-align: center;
 }
 
@@ -33,4 +33,9 @@ button {
     width: 140px;
     border-radius: 5px;
     border: none;
+}
+
+img {
+    height: 40;
+    width: 30;
 }
