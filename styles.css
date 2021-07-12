@@ -1,0 +1,36 @@
+body {
+    background-image: url("bg.jpeg");
+    text-align: center;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: goldenrod;
+}
+
+#top-message {
+    color: wheat;
+    font-size: 30px;
+}
+
+#cards {
+    color: wheat;
+    font-size: 25px;
+}
+
+#sum {
+    color: wheat;
+    font-size: 25px;
+}
+
+button {
+    background-color: goldenrod;
+    color: darkgreen;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 10px 10px;
+    width: 140px;
+    border-radius: 5px;
+    border: none;
+}
